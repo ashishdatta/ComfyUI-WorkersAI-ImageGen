@@ -18,7 +18,7 @@ This custom node for ComfyUI integrates Cloudflare Workers AI image generation c
 
    ```
    cd /path/to/ComfyUI/custom_nodes
-   git clone https://github.com/yourusername/comfyui-workers-ai-node.git
+   git clone https://github.com/ashishdatta/ComfyUI-WorkersAI-ImageGen.git
    ```
 
 3. Install the required dependencies:
